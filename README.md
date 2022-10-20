@@ -19,6 +19,10 @@ I'm Data Science graduate student at **Columbia University**, and I study pure m
 
 I'm also a part time research intern at **NASA GISS** (but it's literally not rocket science)
 
+Here is my website for more details: https://emiledesmaili.github.io/
+
+![](proofmeme.jpg)
+
 
 
 
