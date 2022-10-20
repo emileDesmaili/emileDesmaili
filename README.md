@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Data Science graduate student at **Columbia University**, 
+I'm Data Science graduate student at **Columbia University**, and I study pure mathematics at **Sorbonne Univeristé**
+I'm also a part time research intern at **NASA GISS** (but it's literally not rocket science)
+
+
+
