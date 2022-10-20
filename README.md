@@ -21,7 +21,7 @@ I'm also a part time research intern at **NASA GISS** (but it's literally not ro
 
 Here is my website for more details: https://emiledesmaili.github.io/
 
-![](proofmeme.jpg)
+![](proofmeme.jpg =100x20)
 
 
 
