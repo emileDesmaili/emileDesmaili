@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I'm a graduate student at **Columbia University**, and I study mathematics at **Sorbonne Université**. 
 
-I'm also a part time research intern at **NASA GISS** (but it's literally not rocket science)
 
 Here is my website for more details: https://emiledesmaili.github.io/
 
