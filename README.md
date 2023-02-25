@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a graduate student at **Columbia University**, and I study mathematics at **Sorbonne Université**. 
+I study Machine Learning at **Columbia University**, and Mathematics at **Sorbonne Université**. 
 
 
 Here is my website for more details: https://emiledesmaili.github.io/
