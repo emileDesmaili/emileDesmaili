@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I study Machine Learning at **Columbia University**, and Mathematics at **Sorbonne Université**. 
+I work as a research assistant at **Columbia University**/**NASA GISS**, and study Mathematics at **Sorbonne Université**. 
 
 
 Here is my website for more details: https://emiledesmaili.github.io/
